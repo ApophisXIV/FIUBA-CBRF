@@ -10,7 +10,7 @@ void setup() {
     rf_switch_init(&switch_uhf, PIN4, LOW);
     rf_switch_init(&switch_vhf, PIN5, LOW);
 
-    switch_vhf.
+    switch_vhf
 
 }
 
